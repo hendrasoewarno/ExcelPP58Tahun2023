@@ -8,7 +8,7 @@ menyederhanakan perhitungan PPh 21 atas Penghasilan
 Sehubungan dengan Pekerjaan, Jasa, atau Kegiatan
 Wajib Pajak Orang Pribadi.
 
-Untuk kesuaian dengan Peraturan Pemerintah, penyederhanaan
+Untuk kesesuaian dengan Peraturan Pemerintah, penyederhanaan
 perhitungan ini menyebabkan tim payroll masing-masing
 perusahaan perlu menyesuaikan aplikasi maupun spreadsheet
 yang selama ini digunakan untuk menghitung PPh Bulanan
