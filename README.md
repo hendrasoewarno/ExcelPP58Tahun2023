@@ -2,6 +2,9 @@
 File Excel untuk mensimulasikan perhitungan Take Home Pay dan PPh Menurut PP Nomor 58 Tahun 2023 baik secara Gross maupun Gross-Up
 <br>
 <br>
+Klik pada button [<>Code], pilih download, maka file spreadsheet
+akan terdownload dalam bentuk ZIP.
+<br>
 Penerbitan PP Nomor 58 Tahun 2023 tentang Tarif Pemotongan
 PPh 21 menggunakan Tarif Efektif (TER) bertujuan untuk
 menyederhanakan perhitungan PPh 21 atas Penghasilan
