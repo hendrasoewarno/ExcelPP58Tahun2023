@@ -18,8 +18,8 @@ perusahaan perlu menyesuaikan aplikasi maupun spreadsheet
 yang selama ini digunakan untuk menghitung PPh Bulanan
 dari Januari s/d November, sedangkan PPh masa terakhir
 (Desember) adalah berdasarkan pengurangan atas PPh setahun
-menggunakan tarif Pasal 17 terhadap Total PPh yang sudah
-dipotong pada Januari s/d November yang menggunakan Tarif Efektif.
+menggunakan tarif Pasal 17 ayat (1) huruf a terhadap Total PPh
+yang sudah dipotong pada Januari s/d November yang menggunakan Tarif Efektif.
 
 Sebagai mahasiswa jurusan Akuntansi, saya tertarik
 untuk mengembangkan spreadsheet perhitungan PPh (Jan-Nov)
@@ -27,7 +27,3 @@ berdasarkan tarif efektif dapat disesuaikan oleh masing-masing
 perusahaan.
 
 Semoga spreadsheet ini bermanfaat.
-
-Klik pada button [<>Code], pilih download, file akan terdownload dalam
-bentuk ZIP.
-
