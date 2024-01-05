@@ -23,7 +23,8 @@ yang sudah dipotong pada Januari s/d November yang menggunakan Tarif Efektif.
 
 Sebagai mahasiswa jurusan Akuntansi, saya tertarik
 untuk mengembangkan spreadsheet perhitungan PPh (Jan-Nov)
-berdasarkan tarif efektif dapat disesuaikan oleh masing-masing
-perusahaan.
+untuk menentukan tarif efektif secara otomatis berdasarkan
+nilai penghasilan bruto dan status PKTP yang dapat disesuaikan
+oleh masing-masing perusahaan.
 
 Semoga spreadsheet ini bermanfaat.
