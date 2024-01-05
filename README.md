@@ -27,3 +27,7 @@ berdasarkan tarif efektif dapat disesuaikan oleh masing-masing
 perusahaan.
 
 Semoga spreadsheet ini bermanfaat.
+
+Klik pada button [<>Code], pilih download, file akan terdownload dalam
+bentuk ZIP.
+
