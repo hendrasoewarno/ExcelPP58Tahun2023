@@ -21,7 +21,7 @@ dari Januari s/d November, sedangkan PPh masa terakhir
 menggunakan tarif Pasal 17 ayat (1) huruf a terhadap Total PPh
 yang sudah dipotong pada Januari s/d November yang menggunakan Tarif Efektif.
 
-##Metode GROSS UP
+## Metode GROSS UP
 Pada metode Gross Take home pay yang diterima oleh karyawan
 adalah setelah dipotong PPh 21 oleh pemberi kerja.
 Untuk meningkatkan produktifitas karyawan, adalah tidak
