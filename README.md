@@ -21,6 +21,31 @@ dari Januari s/d November, sedangkan PPh masa terakhir
 menggunakan tarif Pasal 17 ayat (1) huruf a terhadap Total PPh
 yang sudah dipotong pada Januari s/d November yang menggunakan Tarif Efektif.
 
+##Metode GROSS UP
+Pada metode Gross Take home pay yang diterima oleh karyawan
+adalah setelah dipotong PPh 21 oleh pemberi kerja.
+Untuk meningkatkan produktifitas karyawan, adalah tidak
+jarang perusahaan memberikan tunjangan PPh 21 kepada
+karyawannya dan agar tunjangan tersebut dapat
+diakui sebagai beban usaha yang deductible,
+maka tunjangan tersebut harus menjadi
+penghasilan bruto bagi penerimanya dan
+dihitung dengan menggunakan metode Gross-Up.
+
+Perhitungan tunjangan PPh 21 Gross-Up adalah
+sulit dilakukan tanpa bantuan Spreadsheet karena
+membutuhkan iterasi sampai selisih antara
+nilai tunjangan PPh 21 dengan PPh 21 dipotong adalah
+mendekati nol.
+
+Pada Spreadsheet, perhitungan tunjangan PPh 21 Gross-Up
+dilakukan dengan menggunakan Circular References Formula yang
+merupakan formula Close Loop yang dapat menyebabkan iterasi
+tidak terbatas. Untuk menghindari iterasi yang tidak terbatas,
+maka perlu diaktifkan [Enable Iterative Calculation] untuk
+membatasi jumlah iterasi. Fitur [Enable Iterative Calculation]
+dapat diakses melalui menu File->Options->Formula.
+
 Sebagai mahasiswa jurusan Akuntansi, saya tertarik
 untuk mengembangkan spreadsheet perhitungan PPh (Jan-Nov)
 berdasarkan tarif efektif dapat disesuaikan oleh masing-masing
