@@ -57,10 +57,37 @@ Menyambung postingan sebelumnya, saya dan Hendra Soewarno mengembangkan model sp
 yang menghitung PPh 21 Karyawan berdasarkan Tarif Efektif dan juga mempertimbangkan pengenaan
 tarif pajak sebesar 20 persen lebih tinggi dari tarif yang seharusnya berlaku bagi wajib pajak yang tidak memiliki NPWP.
 
-Sebagai mahasiswa jurusan Akuntansi, saya tertarik
-untuk mengembangkan spreadsheet perhitungan PPh (Jan-Nov)
-berdasarkan tarif efektif dapat disesuaikan oleh masing-masing
-perusahaan terkait dengan PP Nomor 58 Tahun 2023 dan PMK 168 Tahun 2023
-sebagai petunjuk pelaksanaannya.
+Nb. <b>Menjelang diberlakunya NIK sebagai NPWP, maka pengenaan tarif pajak 20 persen lebih tinggi bagi pegawai yang tidak
+memiliki NPWP adalah tidak efektif lagi.</b>
+
+## Otomatisasi perhitungan Potongan PPh 21 Pegawai Tetap
+enurut PP Nomor 58 Tahun 2023 Pasal 2 ayat 1 
+bahwa Tarif pemotong PPh Pasal 21 terdiri atas:
+(a) tarif perdasarkan Pasal 17 ayat 1 huruf a UU PPh dan;
+(b) tarif efektif pemotongan PPh 21.
+
+Mengenai masa pajak pemakaian masing-masing tarif tersebut
+diatas adalah diperjelas oleh PMK 168 Tahun 2023 Pasal 15 ayat 1 bahwa PPh 21 yang
+wajib dipotong bagi Pegawai Tetap:
+(a) setiap Masa Pajak selain Masa  Pajak Terakhir dihitung menggunakan
+tarif efektif bulanan;
+(b) Masa Pajak Terakhir yaitu sebesar selisih antara PPh 21 yang terutang
+selama 1 (satu) Tahun Pajak atau bagian Tahun Pajak dengan PPh 21
+yang telah dipotong pada Masa Pajak selain Masa Pajak terakhir.
+PPh 21 yang terhutang selama 1 (satu) Tahun atau bagian Tahun Pajak dihitung
+menggunakan tarif Pasal 17 ayat (1) huruf a UU PPh.
+
+Berdasarkan peraturan tersebut diatas, tim payroll 
+masing-masing perusahaan perlu mempersiapkan spreadsheet
+yang mampu menghitung potongan PPh 21 selain masa Pajak
+terakhir dengan menggunakan Tarif Efektif Rata-Rata (TER)
+dan juga mampu menghitung potongan PPh 21 menggunakan
+tarif berdasarkan Pasal 17 ayat 1(a) untuk Masa
+Pajak Terakhir.
+
+Untuk keperluan tersebut diatas, sebagai Mahasiswa Jurusan Akuntansi,
+saya tertarik untuk mengembangkan suatu model spreadsheet yang mampu
+menghitung potongan PPh 21 pegawai tetap secara otomatis pada satu sheet tunggal
+baik menggunakan TER ataupun tarif berdasarkan Pasal 17 ayat 1(a).
 
 Semoga spreadsheet ini bermanfaat.
